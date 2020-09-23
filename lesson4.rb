@@ -10,7 +10,7 @@ webcamp = 120
 puts webcamp
 
 
-name = yoyo
+name = "yoyo"
 a = "私の名前は"
 b = "です"
 puts a + name +b
